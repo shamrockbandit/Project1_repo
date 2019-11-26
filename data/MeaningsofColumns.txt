@@ -93,3 +93,6 @@ ef_trade_movement_visit= Freedom of foreigners to visit
 ef_trade_movement= Controls of the movement of capital and people
 ef_trade= Freedom to trade internationally
 ef_regulation_credit_ownership= Ownership of banks
+hf_score= Human Freedom
+ef_score= Economic Freedom
+pf_score= Personal Freedom
