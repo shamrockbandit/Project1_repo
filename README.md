@@ -21,9 +21,9 @@ contains all project 1 files for Scott, Eden, Meagan, and Jim
 
 ## Plots (~/plots)
 ### Exploration Plots
-* freedomplot_hfscore.html  - World heat map of 2016 Human Freedom (hf_score)
-* freedomplot_percChange_hfscore.html - World heat map of %-change of Human freedom between 2008 and 2016
-* hi-lo_bin_plot.png  - Scatter olot with hi-lo lines indicating bins cut across mean of perception of business corruption
+* __~/freedomplot_hfscore.html__  - World heat map of 2016 Human Freedom (hf_score)
+* __~/freedomplot_percChange_hfscore.html__ - World heat map of %-change of Human freedom between 2008 and 2016
+* __~/hi-lo_bin_plot.png__  - Scatter olot with hi-lo lines indicating bins cut across mean of perception of business corruption
 
 ### Hypotheses Analysis plots
 #### Personal Freedom vs. Economic Freedom
