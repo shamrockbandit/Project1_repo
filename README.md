@@ -2,7 +2,6 @@
 contains all project 1 files for Scott, Eden, Meagan, and Jim
 
 ## Wrangling & Exploration Notebooks
-
 * __readFreeData.ipynb__        - read Freedom Index Data, explore data, groupBy Coutnry, groupBy Region, means, %-change between 2008 and 2016
 * __geoChart_hfscore.ipynb__        - Use Folium Package to chart heat map of mean human freedom (hf_score) by country on world map
 * __geoChart_percChange_hfscore.ipynb__   - Use Folium package to chart heat map of %-change of mean hf_score by country on world map
@@ -27,13 +26,22 @@ contains all project 1 files for Scott, Eden, Meagan, and Jim
 * hi-lo_bin_plot.png  - Scatter olot with hi-lo lines indicating bins cut across mean of perception of business corruption
 
 ### Hypotheses Analysis plots
-#### Personal Freedom vs. Econamic Freedom
-* PFScorevEFScoreRegress.png
-* pf_quartiles_v_efscores.png
+#### Personal Freedom vs. Economic Freedom
+* __?/plots/PFScorevEFScoreRegress.png__
+* __?/plots/pf_quartiles_v_efscores.png__
 #### Human Freedom vs. Money Growth
-* MoneyGrowthvHFscore.png
+* __?/plots/MoneyGrowthvHFscore.png__
 #### Human Freedom vs. Internet Expression 
-* internet.png
+* __?/plots/internet.png__
 #### Personal Freedom vs. Perception of Business Corruption
-* top_quartile.png
-* bottom_quartile.png
+* __?/plots/top_quartile.png__
+* __?/plots/bottom_quartile.png__
+
+## Data
+__?/data/indexfreedom.csv__ - Original Human Freedom Index csv file
+__?/data/indexfreedom_columns.csv__   - Human Freedom Index columns transposed to rows for exploration
+__?/data/MeaningsofColumns.txt__   - meaning of Human Freedom Index columns
+
+## FInal Report 
+__?/reports/Project 1 Presentation.pptx__   - Final Presentation (powerpoint)
+__?/reports/Project 1 Report.pdf__    - One Page final report (PDF)
