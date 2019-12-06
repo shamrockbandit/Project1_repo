@@ -27,21 +27,21 @@ contains all project 1 files for Scott, Eden, Meagan, and Jim
 
 ### Hypotheses Analysis plots
 #### Personal Freedom vs. Economic Freedom
-* __?/plots/PFScorevEFScoreRegress.png__
-* __?/plots/pf_quartiles_v_efscores.png__
+* __~/plots/PFScorevEFScoreRegress.png__
+* __~/plots/pf_quartiles_v_efscores.png__
 #### Human Freedom vs. Money Growth
-* __?/plots/MoneyGrowthvHFscore.png__
+* __~/plots/MoneyGrowthvHFscore.png__
 #### Human Freedom vs. Internet Expression 
-* __?/plots/internet.png__
+* __~/plots/internet.png__
 #### Personal Freedom vs. Perception of Business Corruption
-* __?/plots/top_quartile.png__
-* __?/plots/bottom_quartile.png__
+* __~/plots/top_quartile.png__
+* __~/plots/bottom_quartile.png__
 
 ## Data
-__?/data/indexfreedom.csv__ - Original Human Freedom Index csv file
-__?/data/indexfreedom_columns.csv__   - Human Freedom Index columns transposed to rows for exploration
-__?/data/MeaningsofColumns.txt__   - meaning of Human Freedom Index columns
+__~/data/indexfreedom.csv__ - Original Human Freedom Index csv file
+__~/data/indexfreedom_columns.csv__   - Human Freedom Index columns transposed to rows for exploration
+__~/data/MeaningsofColumns.txt__   - meaning of Human Freedom Index columns
 
 ## FInal Report 
-__?/reports/Project 1 Presentation.pptx__   - Final Presentation (powerpoint)
-__?/reports/Project 1 Report.pdf__    - One Page final report (PDF)
+__~/reports/Project 1 Presentation.pptx__   - Final Presentation (powerpoint)
+__~/reports/Project 1 Report.pdf__    - One Page final report (PDF)
